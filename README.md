@@ -1,0 +1,2 @@
+# lyric
+inspiration for dotdot
